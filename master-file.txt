@@ -1,2 +1,5 @@
 this is from mastedev
 this is from future branch
+made changes in remote
+fetch vs pull local
+to check fetch and pull remote
