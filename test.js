@@ -1,1 +1,1 @@
-var data= {name:"Gopal"}
+var data = { name: "Gopal" };
